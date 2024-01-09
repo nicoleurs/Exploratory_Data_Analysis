@@ -8,7 +8,7 @@ In this repository you can find two project I worked on as part of my Data scien
 
 For more information you can consult the dedicated README file inside the folder.
 
-## Steam project
+## Steam marketplace project
 
 **In constrast, this project was centered around a much much bigger dataset gathered from steam's marketplace. This projects aim was to study the current videogame market for Ubisoft, who wanted to release a new game**
 
