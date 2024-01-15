@@ -1,9 +1,8 @@
 # Steam marketplace EDA
 
 ## Project description
-This project's goal was to understand **what makes peaople interested in each other**. 
 
-To this end a dataset from Tinder's speed dating experiments from 2002 to 2004 was used. In these speed dating events, people had to give Tinder a lot of information about themselves that could ultimately reflect their dating profile on the app.
+A company would like to release a new revolutionary videogame! They asked me to conduct a global analysis of the games available on Steam's marketplace in order to better understand the videogames ecosystem and today's trends.
 
 ## Goals
 To carry out different levels of analysis :
