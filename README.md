@@ -1,6 +1,6 @@
 # Exploratory data Analysis
 
-In this repository you can find two project I worked on as part of my Data science and engineering certification at Jedha Bootcamp
+In this repository you can find two projects I worked on as part of my Data science and engineering certification at Jedha Bootcamp
 
 ## Speed dating project
 
